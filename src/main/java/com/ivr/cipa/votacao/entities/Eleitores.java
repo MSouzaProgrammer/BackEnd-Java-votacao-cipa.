@@ -15,7 +15,7 @@ public class Eleitores {
     @Getter
     @Setter
     private Long id;
-    private Boolean voto;
+    private Boolean voto;   
     public Eleitores() {
     }
     public Eleitores(Long id, Boolean voto) {
